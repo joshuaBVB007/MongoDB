@@ -1,0 +1,1 @@
+Document{{_id=601053039482de2484ca2db8, nombre=Pepe, edad=34}}
